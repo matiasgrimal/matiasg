@@ -1,0 +1,37 @@
+// IMPORT
+@import "body";
+@import "botones";
+@import "mixin";
+@import "maps";
+@import "desktopversion";
+@import "tabletversion";
+@import "mobileversion";
+
+//ANIDAMIENTO
+.footerpie {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+img {
+  border: 1px solid;
+}
+.link {
+  text-align: center;
+  margin-top: 2%;
+}
+
+footer {
+  padding: 1em 0;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.slide {
+  margin-top: 10px;
+}
+
+.slide img {
+  height: 50vh;
+}
