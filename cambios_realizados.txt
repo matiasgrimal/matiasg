@@ -1,0 +1,5 @@
+Se modifico el titulo en cada una de las paginas (index,contacto,about,ubicacion,tienda)
+se corrgió link en la pagina "tienda"
+se modificó footer con maps
+se agregó extend y mixin al proyecto
+se aplicó SEO
