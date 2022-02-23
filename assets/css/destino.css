@@ -6,14 +6,16 @@ body {
   min-height: 100vh;
 }
 
-.botones, .botontienda {
+.botones,
+.botontienda {
   background-color: black;
   color: white;
   border-radius: 20px;
   border: 1px solid black;
   text-align: center;
 }
-.botones:hover, .botontienda:hover {
+.botones:hover,
+.botontienda:hover {
   filter: opacity(85%);
 }
 
@@ -61,7 +63,6 @@ body {
   .mainflex {
     display: flex;
     justify-content: start;
-    width: 100%;
     margin-top: 2%;
   }
 
@@ -117,7 +118,6 @@ body {
   .mainflex {
     display: flex;
     justify-content: start;
-    width: 100%;
     margin-top: 2%;
   }
 }
